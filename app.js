@@ -6,3 +6,4 @@ console.log("2 05");
 console.log("2 8");
 console.log("3 00 am");
 console.log("Ya es martes pendejo jajaja");
+console.log("Esto es para putas jajaja");
